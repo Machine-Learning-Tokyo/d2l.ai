@@ -6,7 +6,7 @@ These bi-weekly sessions aim to provide code-focused sessions by reimplementing 
 
 We will try to achieve this by:
 
-- Helping participants to create their models end-to-end by reimplementing models from scratch and discussing what modules/elements need to be included (e.g. data preprocessing, dataset generation, data transformation, etc.) to train an ML model.
+- Helping participants to create their models end-to-end by reimplementing models from scratch and discussing what modules/elements need to be included (e.g., data preprocessing, dataset generation, data transformation, etc.) to train an ML model.
 
 - Discussing and resolving coding questions participants might have during the sessions.
 
@@ -23,13 +23,25 @@ Even though we welcome everybody to join the sessions, it is highly recommended 
 - Coding env setup example and book presentation
 - A quick review of ML domains (supervised/unsupervised/RL)
 - General Architecture/Components of ML code
-- Implementation of simple MLP-model
+- Implementations:
+  - simple MLP-model
 
 ### Session 2:
-CNN model (LeNet/ResNet) implementation
+- Basics of Convolution and related Layers
+- Implementations:
+  - LeNet
+  - VGG
+  - Inception Block
+  - Resnet Block
 
 ### Session 3:
-RNN model (LSTM) implementation
+- Basics of Recurrent Neural Networks
+- Tokenization, Vocabulary
+- Backpropagation through time
+- Implementations:
+  - RNN
+  - GRU
+  - LSTM
 
 ### Session 4:
 Attention mechanism (Transformer) implementation
