@@ -44,7 +44,10 @@ Even though we welcome everybody to join the sessions, it is highly recommended 
   - LSTM
 
 ### Session 4:
-Attention mechanism (Transformer) implementation
+- Attention mechanism #1
+- Sequence to Sequence Models
+- Bahdanau attention
+- Luong Attention
 
 ### Session 5:
 Attention mechanism (Transformer) implementation
