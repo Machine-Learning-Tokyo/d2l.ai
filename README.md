@@ -45,12 +45,15 @@ Even though we welcome everybody to join the sessions, it is highly recommended 
 
 ### Session 4:
 - Attention mechanism #1
-- Sequence to Sequence Models
-- Bahdanau attention
-- Luong Attention
+  - Sequence to Sequence Models
+  - Bahdanau attention
+  - Luong Attention
 
 ### Session 5:
-Attention mechanism (Transformer) implementation
+- Attention mechanism #2
+  - Multi-Head and Self Attention
+  - Transformer Architechure
+  - BERT, ELMO
 
 ### Session 6:
 Generative adversarial networks (DCGAN) implementation
